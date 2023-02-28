@@ -1,0 +1,7 @@
+﻿https://medium.com/codex/the-most-important-new-features-of-c-10-and-how-to-use-them-9d8a8519c0c4
+https://rubikscode.net/2021/11/08/c-10-top-5-new-features-in-the-upcoming-c-version/
+https://www.syncfusion.com/blogs/post/5-features-in-c-sharp-10-every-developer-should-know.aspx
+https://www.syncfusion.com/blogs/post/5-features-in-c-sharp-10-every-developer-should-know.aspx#assignment-and-declaration-in-the-same-deconstruction
+https://rubikscode.net/2021/11/08/c-10-top-5-new-features-in-the-upcoming-c-version/
+https://medium.com/codex/the-most-important-new-features-of-c-10-and-how-to-use-them-9d8a8519c0c4
+https://www.rlogical.com/blog/top-8-exciting-new-features-of-csharp-10
