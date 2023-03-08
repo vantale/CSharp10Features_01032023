@@ -1,0 +1,2 @@
+﻿https://www.jondjones.com/programming/aspnet-core/fundamentals/developer-reacts-to-minimal-api-in-aspnet-7/
+https://benfoster.io/blog/minimal-apis-why-should-you-care/
